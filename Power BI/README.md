@@ -35,6 +35,7 @@ The dashboard was design to answer questions such as:
 
 ## Tools & Technologies
 - Microsoft Power BI
+- Excel
 - Power Query
 - DAX
 - Microsoft Excel
